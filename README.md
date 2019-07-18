@@ -2,7 +2,7 @@ This APP calculates average loan.
 
 ## Available Scripts
 
-FOr start project first type 
+For start project first type 
 ### `npm install`
 
 donwload node_modules<br>

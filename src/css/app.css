@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  background-color:#f5f5f5;
+  font-size: 16px;
+}
+
+.header {
+  background-color: rgb(99, 130, 197);
+  height:80px;
+  font-size: 40px;
+  font-weight: bolder;
+  position: relative;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+}
